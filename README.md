@@ -1,3 +1,8 @@
+# How To Run: 
+1. Clone the repo.
+2. For Nightingale Rose Chart : open DV-NighingaleRoseChart.html in browser.
+3. For Minard's Map : open DV-Minards.html in browser.
+
 # Visualization 1: Nightingale’s Rose Chart
   
 ## Description:

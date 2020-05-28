@@ -1,6 +1,6 @@
-##Visualization 1: Nightingale’s Rose Chart
+# Visualization 1: Nightingale’s Rose Chart
   
-#Description:
+## Description:
 The visualization is achieved using ‘d3.js’ JavaScript library, CSS and HTML. All the SVG elements are created using d3.js. Steps involved in building the visualization are:
 1. Created the SVG element.
 2. Started appending arcs using ‘arc’, ‘attr’ and ‘translate’ functions for:
@@ -15,9 +15,9 @@ d. People died because of other reasons (Annual Mortality Rate)
 
 
 
-##Visualization 2: Minard’s Map
+# Visualization 2: Minard’s Map
  
-#Description:
+## Description:
 The visualization is again achieved using ‘d3.js’ JavaScript library, CSS and HTML. Steps involved in building the visualization are:
 1. Created the SVG element.
 2. Started with building axis for longitude and latitude.
